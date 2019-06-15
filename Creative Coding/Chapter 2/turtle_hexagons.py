@@ -31,4 +31,3 @@ for i in range(36):
     shelly.right(10)
 
 shelly.hideturtle()
-
